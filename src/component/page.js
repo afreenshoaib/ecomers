@@ -1,5 +1,5 @@
 import React from 'react';
-import './homepage.styles.scss';
+import './component/page2.scss';
 
 
 export const Homepage=()=>{
@@ -41,5 +41,4 @@ export const Homepage=()=>{
         </div>
     );
 }
-
 
